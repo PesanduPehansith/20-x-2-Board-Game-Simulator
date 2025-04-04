@@ -1,0 +1,9 @@
+Human
+Total Number Of Moves 12
+Total Number Of Black Hole Hits 0
+Congratulations! Won The Game
+
+Computer
+Total Number Of Moves 8
+Total Number Of Black Hole Hits 0
+Lost The Game
